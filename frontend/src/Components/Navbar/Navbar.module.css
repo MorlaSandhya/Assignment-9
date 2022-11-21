@@ -1,0 +1,10 @@
+.Container {
+  margin: 10px 0;
+  display: flex;
+  color:blueviolet;
+  justify-content: space-between;
+}
+
+.Container a {
+  margin-right: 20px;
+}
