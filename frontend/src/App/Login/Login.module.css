@@ -7,18 +7,25 @@
 
 .Input {
   width: 300px;
-  margin-bottom: 10px;
-  font-size: 18px;
-  padding: 10px;
-  border-radius: 10px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 10px;
+    outline: none;
+    border: 1px solid #23353c;
+    background-color: #c7dce3;
 }
 
 .Submit {
-  background-color: teal;
-  border: none;
-  color: white;
+  background-color: transparent;
+  color: #23353c;
+  border: 2px solid #23353c;
   padding: 10px 0;
   font-size: 18px;
   width: 30%;
   margin-top: 30px;
+  border-radius: 5px;
+}
+h1{
+  font-weight: 300;
 }

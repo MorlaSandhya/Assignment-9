@@ -10,7 +10,7 @@ const Jobs = () => {
       <PageCard
         title={"Jobs Page"}
         desc={
-          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+          "Employment Opportunities The Career and Internship Center at UW provides students with the opportunity to gain a job, especially through their HuskyJobs system, a database that tells students any job openings or internships all over campus. The jobs with the most availability on campus are in the library, housing and food services, department of recreational sports, the university bookstore, and the UW foundation - student calling system. However, some of the academic apartments also offer internships to students, and those positions are very competitive since it gives a boost to one’s career, but there are also job opportunities in the athletic department. Compared to other schools, there are definitely many on campus job"
         }
       />
       <Start/>
