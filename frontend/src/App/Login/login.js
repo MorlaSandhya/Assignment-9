@@ -38,7 +38,7 @@ const Login = () => {
         className={classes.Input}
         name="email"
         type="email"
-        placeholder="harvey@pearsonspecter.com"
+        placeholder="Enter email"
         value={data.email}
         onChange={change}
         />

@@ -1,10 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+body {
+  font-family: 'Josefin Sans', cursive;
+}
 .Container {
   margin: 10px 0;
   display: flex;
-  color:blueviolet;
+  color:#fff;
   justify-content: space-between;
+  background-color: #165ca7;
+  padding: 20px;
+  border-radius: 10px;
 }
 
 .Container a {
   margin-right: 20px;
+  color: #fff;
+  text-decoration: none;
 }
